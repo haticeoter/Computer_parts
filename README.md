@@ -1,1 +1,2 @@
-# Computer_parts
+# Compoter_parts
+Exercise for classes.
